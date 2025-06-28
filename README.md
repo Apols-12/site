@@ -1,1 +1,1 @@
-This is a simple porfolio page, you can custoumize depending on your need
+This is a simple porfolio page, you can customize depending on your need
